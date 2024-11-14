@@ -1,6 +1,6 @@
 ---
-title: 'About'
-url: "/about/"
+title: 'A propos'
+url: "/a-propos/"
 image: images/ikigai.png
 ---
 

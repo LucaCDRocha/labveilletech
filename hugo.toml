@@ -48,8 +48,8 @@ pygmentsUseClasses = true
 
 [menu]
   [[menu.main]]
-    identifier = 'home'
-    name = 'Home'
+    identifier = 'accueil'
+    name = 'Accueil'
     url = '/'
     weight = 1
   [[menu.main]]
@@ -58,10 +58,10 @@ pygmentsUseClasses = true
     weight = 2
     url = "/articles/"
   [[menu.main]]
-    name = "About"
-    identifier = "about"
+    name = "A propos"
+    identifier = "a-propos"
     weight = 3
-    url = "/about/"
+    url = "/a-propos/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"
