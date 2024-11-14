@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Luca Correia Da Rocha"
 [pagination]
   pagerSize = 3
 pygmentsCodeFences = true
@@ -61,7 +61,7 @@ pygmentsUseClasses = true
     name = "About"
     identifier = "about"
     weight = 3
-    url = "/About/"
+    url = "/about/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"
