@@ -16,7 +16,7 @@ Si, comme moi, vous travaillez dans le web design ou l’UX/UI design, vous save
 
 Aujourd’hui, je vais vous montrer comment je fais, avec des outils comme **Inoreader** et **MyMind**, pour suivre les tendances, apprendre, et surtout ne pas perdre le fil. Spoiler : c’est facile à mettre en place et vraiment efficace !
 
-### **Pourquoi j’ai décidé de structurer ma veille**
+## **Pourquoi j’ai décidé de structurer ma veille**
 
 On ne va pas se mentir : sans un minimum d’organisation, faire de la veille peut vite devenir frustrant. Vous ouvrez un onglet, puis un autre… puis un autre encore. Et finalement, vous perdez plus de temps qu’autre chose.
 
@@ -56,12 +56,12 @@ Ce qui est génial avec ce système, c’est qu’il me fait gagner du temps. Ma
 - **Je fais un tri rapide chaque jour** : Le matin, je passe 10 minutes sur Inoreader pour lire les titres. Si un article m’intéresse, je le mets de côté. Sinon, je passe au suivant.
 - **Je fais le point chaque semaine** : Le week-end, je prends 30 minutes pour lire les articles que j’ai sauvegardés, et ranger les plus utiles dans MyMind.
 
-### **Quelques conseils si vous voulez vous lancer**
+## **Quelques conseils si vous voulez vous lancer**
 
 1. **N’essayez pas de tout suivre**. Il y a trop de contenu, et c’est OK de ne pas tout lire. Concentrez-vous sur ce qui vous aide vraiment.
 2. **Adaptez votre système à vos besoins**. Ce qui marche pour moi ne marchera peut-être pas exactement pour vous. Testez, ajustez, et trouvez votre propre rythme.
 3. **Restez curieux, mais critique**. Toutes les tendances ne sont pas bonnes à suivre. Utilisez votre veille pour enrichir votre pratique, pas pour copier-coller des idées.
 
-### **Ce que j’ai appris en mettant en place ce système**
+## **Ce que j’ai appris en mettant en place ce système**
 
 Avec Inoreader et MyMind, j’ai enfin l’impression de maîtriser ma veille. Ce n’est plus une corvée, mais une habitude enrichissante qui m’aide à rester à jour sans m’épuiser.
