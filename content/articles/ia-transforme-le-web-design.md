@@ -2,8 +2,8 @@
 title: "L'IA transforme le web design"
 date: 2024-11-25
 description: "L'article de Smashing Magazine explore comment l’intelligence artificielle (IA) transforme le web design en boostant la productivité."
-image: images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg
-imageAltAttribute: Photo de Lee Campbell sur Unsplash
+image: images/google-deepmind-Oy2yXvl1WLg-unsplash.jpg
+imageAltAttribute: Photo de Google DeepMind sur Unsplash
 tags:
    - Intelligence artificielle  
    - Productivité web design  
