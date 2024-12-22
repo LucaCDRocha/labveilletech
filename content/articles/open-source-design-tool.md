@@ -2,8 +2,8 @@
 title: "L'open source rencontre les outils de design avec Penpot"
 date: 2024-12-01
 description: "L'article de Smashing Magazine se penche sur Penpot, un outil de design open source qui pourrait bien transformer la manière dont les équipes collaborent sur leurs projets créatifs."
-image: images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg
-imageAltAttribute: Photo de Lee Campbell sur Unsplash
+image: images/penpot-screenshot.png
+imageAltAttribute: Screenshots d'une vidéo sur Penpot.app
 tags:
    - design
    - open source
