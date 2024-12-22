@@ -2,8 +2,8 @@
 title: "La Gen Z préfère les réseaux sociaux à Google"
 date: 2024-12-05
 description: "L'article de Web Designer Depot explore un changement majeur dans les habitudes de recherche des jeunes générations, notamment Gen Z, qui privilégient des plateformes comme TikTok et Instagram plutôt que Google."
-image: images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg
-imageAltAttribute: Photo de Lee Campbell sur Unsplash
+image: images/nik-ZmY7AG1l0Eo-unsplash.jpg
+imageAltAttribute: Photo de Nik sur Unsplash
 tags:
    - Habitudes de recherche  
    - Design mobile-first  
