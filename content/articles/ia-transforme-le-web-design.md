@@ -5,9 +5,13 @@ description: "L'article de Smashing Magazine explore comment l’intelligence ar
 image: images/google-deepmind-Oy2yXvl1WLg-unsplash.jpg
 imageAltAttribute: Photo de Google DeepMind sur Unsplash
 tags:
-   - Intelligence artificielle  
-   - Productivité web design  
-   - Automatisation
+   - intelligence artificielle  
+   - web design
+   - productivité
+   - UX/UI
+   - outils
+   - design
+   - développement
 ---
 
 L'article de **Smashing Magazine** explore comment l’intelligence artificielle (IA) transforme le web design en boostant la productivité. Grâce à des outils comme ChatGPT ou GitHub Copilot, l’IA simplifie des tâches complexes comme le codage, la création de contenu visuel ou l’analyse UX. L'article met l'accent sur le rôle de l’IA comme partenaire, libérant les designers et développeurs pour se concentrer sur des aspects plus créatifs et stratégiques.

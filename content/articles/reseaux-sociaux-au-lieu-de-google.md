@@ -5,9 +5,12 @@ description: "L'article de Web Designer Depot explore un changement majeur dans 
 image: images/nik-ZmY7AG1l0Eo-unsplash.jpg
 imageAltAttribute: Photo de Nik sur Unsplash
 tags:
-   - Habitudes de recherche  
-   - Design mobile-first  
-   - Plateformes sociales
+   - design
+   - web design
+   - UX/UI
+   - réseaux sociaux
+   - gen Z
+   - google
 ---
 
 L'article de **Web Designer Depot** explore un changement majeur dans les habitudes de recherche des jeunes générations, notamment Gen Z, qui privilégient des plateformes comme TikTok et Instagram plutôt que Google. Ce phénomène redéfinit la manière dont les utilisateurs découvrent du contenu en ligne, favorisant des expériences plus visuelles, interactives et sociales. Pour les concepteurs web, cela implique une adaptation aux nouvelles attentes des utilisateurs et un recentrage sur des designs plus dynamiques et optimisés pour les mobiles.
