@@ -2,8 +2,9 @@
 title: "La nouvelle fonctionnalité de Figma : la Pattern Library"
 date: 2024-12-06
 description: "Découvrez comment la Pattern Library de Figma peut vous aider à créer des designs cohérents et efficaces."
-image: images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg
-imageAltAttribute: Photo de Lee Campbell sur Unsplash
+image: images/zac-wolff-7uSKXpksCKg-unsplash.jpg
+imageAltAttribute: Photo de Zac Wolff sur Unsplash
+      
 tags:
    - figma
    - design d'interface
